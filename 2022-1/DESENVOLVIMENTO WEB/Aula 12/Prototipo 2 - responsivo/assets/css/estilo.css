@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+}
+i {
+    font-size: 2rem;
+}
+* {
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+

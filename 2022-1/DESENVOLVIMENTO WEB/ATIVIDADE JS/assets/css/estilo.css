@@ -1,0 +1,27 @@
+#logo {
+    height: 50px;
+    width: 50px;
+}
+#cafe1 {
+    height: 50px;
+    width: 50px;
+}
+#centralizarCafe {
+    text-align: center;
+}
+#tipoCafe li {
+    display: inline-block;
+    list-style-type: none;
+}
+#formatoCafe {
+    height: 50px;
+    width: 50px;   
+}
+#fundoTipoCafe {
+    background-color: #f2f0eb;
+    border-right: white 5px solid;
+    border-left: white 5px solid;   
+}
+#confirmar {
+    margin-top: 20px;
+}
